@@ -1,4 +1,3 @@
-Kumpulan ini merupakan kumpulan kode-kode yang berbeda untuk solusi nomor masing-masing
 Nomor 1
 
     #include <iostream>

@@ -1,3 +1,5 @@
+Daryl Immanuel (Sinope)
+
 Nomor 1
 
     #include <iostream>
